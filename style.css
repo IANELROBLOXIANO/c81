@@ -1,0 +1,20 @@
+.background-body
+{
+background-image:url(colores.jpg) ;
+background-position: center;
+background: size 300px; ;
+}
+h1
+{
+font-size: 40px;
+}
+#myCanvas
+{
+border-width:10px ;
+background-color: beige;
+border-style:ridge ;
+}
+span
+{
+    font-size: 20px;
+}
